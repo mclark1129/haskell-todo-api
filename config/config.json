@@ -1,0 +1,3 @@
+{
+    "connectionString": "Driver={ODBC Driver 17 for SQL Server};server=(localdb)\\MSSQLLocalDb;Database=TodoItems;Trusted_Connection=yes;MARS_Connection=yes"
+}
